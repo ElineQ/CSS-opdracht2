@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(230, 173, 213);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+  width: 80%;
+  margin:0 auto;
+}
+.box-1{
+  /* Same as above */
+  background-color: rgb(223, 108, 165);
+  color: black;
+
+ padding-left: 40px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ padding-right: 40px
+
+
+}
+
+header{
+  color: black;
+  font-size: medium;
+}
+main{
+px double black;
+  color: midnightblue;
+  font-size: larger;
+}
+
+p1 
+ 
+}
+footer { 
+ 
+}
